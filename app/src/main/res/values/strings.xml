@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetCamera</string>
+    <string name="error_saving_image_try_again">Error saving image..try again</string>
+    <string name="save">save</string>
+</resources>
